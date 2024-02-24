@@ -14,7 +14,7 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
  ## Task:
 
-* Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing, Supply chain.*
+* Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing and Supply chain.
 
 
 ## Tech stack used in the project:

@@ -19,9 +19,9 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
 ## Tech stack used in the project:
 
-* MySQL*
-* MS Excel*
-* Power BI*
+* MySQL
+* MS Excel
+* Power BI
 
 ### PowerBI Dashboard
 

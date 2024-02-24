@@ -1,10 +1,11 @@
 # Business-Insights-360
 ## Link to my Dashboard
-🔷Power BI Service  -
+🔷Power BI Service  - https://app.powerbi.com/view?r=eyJrIjoiZTVhZWNmZjMtYTBiYi00YzYwLTkzZTItZWYxYzQ0YmY0YjkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Overview:
-*Project: Provide Insights on Finance,sales,Marketing,Supply Chain to the Management.*
-*Domain: Manufacturing Domain*
+Project: Provide Insights on Finance, sales, Marketing, Supply Chain to the Management.
+
+Domain: Manufacturing Domain
 
 *AtliQ Hardware is a company that Sells and Manufactures Hardware.They have Customers all over the world and Products under various categories.
 AtliQ Team use MS excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics.
@@ -50,7 +51,7 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 * Customer and Product Performance analysis based on Net Sales, Gross Margin and Gross Margin %
 * Performance Matrix analysis for Market, Customer and Region based on Net Sales and Gross Margin %
 * Sales Trend Tooltip for every single Customer based on Net Sales and Gross Margin %
-* 
+  
 ## Key Features in Marketing View:
 * Unit Economics: There are some Operational Expenses spent for Product. After subtracting this Expenses got the actual scenario of Net Profit
 * Performance Matrix analysis for Segment, Category and Product based on both “Net Sales & Net Profit %” and “Net Sales & Gross Margin %” by using a dynamic toggle button
